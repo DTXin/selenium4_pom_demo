@@ -1,0 +1,5 @@
+2025-02-21 15:27:44.179 [main] INFO  org.example.Base.Driver - ========= Logger: Init chromium browser =========
+2025-02-21 15:27:45.588 [main] INFO  org.example.Common.PageManager - ========= Logger: New instant of object >>> `org.example.PageObject.BingMainPage` =========
+2025-02-21 15:27:45.599 [main] INFO  org.example.PageObject.BingMainPage - ========= Logger: Navigate to url >>> `http://bing.com` =========
+2025-02-21 15:27:46.005 [main] INFO  org.example.PageObject.BingMainPage - ========= Logger: Search with texttext >>> `Automate The Planet` =========
+2025-02-21 15:27:47.185 [main] INFO  org.example.Base.Driver - ========= Logger: Stop and Close browser =========
